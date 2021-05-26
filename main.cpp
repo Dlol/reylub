@@ -25,7 +25,8 @@ int main() {
 	int currentY = screenHeight / 2;
 	int alpha = 255;
 	int speed = 5;
-	Vector2 direction = {0.7,-1};
+	srand(time(NULL));
+	Vector2 direction = {0.76,-0.89};
 	Color rectColor = {255, 0, 0, 255};
 	Color clearColor = {0,0,0,128};
 	while (!WindowShouldClose()){
