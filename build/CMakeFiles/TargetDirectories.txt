@@ -1,3 +1,0 @@
-/home/dlol/projects/reylub/build/CMakeFiles/rebuild_cache.dir
-/home/dlol/projects/reylub/build/CMakeFiles/edit_cache.dir
-/home/dlol/projects/reylub/build/CMakeFiles/reylub.dir
