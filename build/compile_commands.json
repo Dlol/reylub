@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dlol/projects/reylub/build",
+  "command": "/bin/c++ -g -o CMakeFiles/reylub.dir/main.cpp.o -c /home/dlol/projects/reylub/main.cpp",
+  "file": "/home/dlol/projects/reylub/main.cpp"
+}
+]
